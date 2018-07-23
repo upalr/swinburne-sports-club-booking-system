@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BookingComparator
+comment0.text=\r\n\ class\ BookingComparator\ is\ a\ opetor\ used\ for\ sort\ boookings.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ .0.01\r\n
+comment1.params=booking1\ booking2
+comment1.target=int\ compare(Booking,\ Booking)
+comment1.text=\r\n\ Compare\ date\ first\ and\ then\ by\ hours\r\n\r\n\ @param\ \ booking1\ \ first\ paramter\ of\ compare\ method.\ Represents\ Booking\ object\r\n\ @param\ \ booking2\ \ second\ paramter\ of\ compare\ method.\ Represents\ Booking\ object\r\n\ @return\ \ boolean\ \ Return\ boolean\ after\ compare\ two\ object\r\n
+numComments=2

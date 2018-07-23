@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AvailableCourtsGUI
+comment0.text=\r\nFor\ showing\ the\ available\ GUI\ of\ this\ application\r\n\r\n\ @author\ Upal\ Roy\r\n\ \ \\@version\ 1.0.0\r\n
+comment1.params=sportsClub
+comment1.target=AvailableCourtsGUI(Club)
+comment2.params=
+comment2.target=javax.swing.JPanel\ makeForm()
+comment2.text=\r\n\ Make\ the\ Form\ of\ the\ GUI.\r\n\r\n\ @return\ the\ form\ after\ building\ \r\n
+comment3.params=
+comment3.target=javax.swing.JPanel\ makeButtonPanel()
+comment3.text=\r\n\ Make\ the\ Button\ pannel\ of\ the\ GUI\r\n\r\n\ @return\ the\ pannel\ after\ building\ it\ \r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=javax.swing.JLabel\ makeMessagePanel()
+comment6.text=\r\n\ Make\ the\ message\ label\ of\ the\ GUI\r\n\r\n\ @return\ the\ label\ after\ building\ it\ \r\n
+comment7.params=
+comment7.target=void\ showAvailableCourts()
+comment7.text=\r\n\ Shows\ available\ courts\r\n
+comment8.params=
+comment8.target=void\ closeAvailableCourtWindow()
+comment8.text=\r\n\ For\ closeing\ the\ GUI\r\n
+numComments=9

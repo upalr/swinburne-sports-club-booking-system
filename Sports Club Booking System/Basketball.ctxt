@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Basketball
+comment0.text=\r\n\ Basketball\ class\ for\ modeling\ real\ Basketball.\r\n\ \r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=double\ getNetHeight()
+comment1.text=\r\n\ Gets\ the\ netHeight\ of\ this\ Basketball\r\n\ \r\n\ @return\ this\ Basketball's\ netHeight\r\n
+comment2.params=netHeight
+comment2.target=void\ setNetHeight(double)
+comment2.text=\r\n\ Changes\ the\ netHeight\ of\ this\ Basketball\r\n\ \r\n\ @param\ netHeight\ This\ Basketball's\ new\ netHeight\ \r\n
+comment3.params=name\ usageFee\ insuranceFee\ courtList\ netHeight
+comment3.target=Basketball(java.lang.String,\ double,\ double,\ java.util.ArrayList,\ double)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ Basketball\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ String\ representation\ of\ Basketball\ object.\r\n\r\n\ @return\ this\ Basketball's\ string\ representation\ \ \r\n
+numComments=5

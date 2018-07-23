@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MemberValidationException
+comment0.text=\r\n\ MemberValidationException\ is\ for\ valid\ member\ input\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=MemberValidationException()
+comment1.text=\r\n\ Exception\ for\ member\ validation\r\n
+comment2.params=message
+comment2.target=MemberValidationException(java.lang.String)
+comment2.text=\r\n\ Exception\ for\ member\ validation\r\n
+numComments=3

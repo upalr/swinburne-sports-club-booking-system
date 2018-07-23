@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ Mange\ to\ start\ the\ application\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sportsClub
+comment2.target=void\ showConsoleInterface(Club)
+comment3.params=sportsClub
+comment3.target=void\ showGraphicalInterface(Club)
+numComments=4

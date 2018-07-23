@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SevenDaysBookingValidationException
+comment0.text=\r\n\ SevenDaysBookingValidationException\ is\ for\ valid\ days\ booking\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=SevenDaysBookingValidationException()
+comment1.text=\r\n\ Exception\ for\ seven\ daysbooking\ validation\r\n
+comment2.params=message
+comment2.target=SevenDaysBookingValidationException(java.lang.String)
+comment2.text=\r\n\ Exceptionfor\ seven\ daysbooking\ validation\r\n
+numComments=3

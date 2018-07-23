@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BookingTableModel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BookingTableModel\ here.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=bookingList
+comment1.target=BookingTableModel(java.util.List)
+comment2.params=columnIndex
+comment2.target=java.lang.String\ getColumnName(int)
+comment3.params=
+comment3.target=int\ getRowCount()
+comment4.params=
+comment4.target=int\ getColumnCount()
+comment5.params=rowIndex\ columnIndex
+comment5.target=java.lang.Object\ getValueAt(int,\ int)
+comment6.params=columnIndex
+comment6.target=java.lang.Class\ getColumnClass(int)
+numComments=7

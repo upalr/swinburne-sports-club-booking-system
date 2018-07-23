@@ -1,0 +1,8 @@
+// this is a comment, ignore
+// member ID, name, financial, then sports played
+101,Anne,true,Badminton
+102,Fred,true
+103,Siew,true,Badminton,Basketball
+104,Ryan,true,Badminton
+105,David,false
+106,Matthew,true,running
